@@ -1,0 +1,49 @@
+/*Comentario*/
+
+body{
+    background-color: #042940;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav ul{
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    list-style-type: none;
+    background-color:#9FC131;
+}
+
+nav li{
+    display: inline-flex;
+}
+ 
+nav a{
+    padding: 20px;
+    width: 150px;
+}
+
+nav ul a:hover{
+    background-color: green;
+}
+
+.Formula{
+    background-color: #1b5e20;
+}
+
+
+.Piedepagina{
+    background-color: #154360;
+    margin-top: 100px;
+}
+.Piedepagina p{
+    padding: 60px;
+}
+
